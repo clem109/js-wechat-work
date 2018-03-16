@@ -1,0 +1,20 @@
+{
+  "name": "js-wechat-work",
+  "version": "1.0.0",
+  "description": "Send notifications painlessly through wechat work",
+  "main": "wechat-work.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": ["wechat", "wechat-work", "notifications"],
+  "author": "Clement Venard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clem109/js-wechat-work.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-fetch": "^2.1.1"
+  }
+}
