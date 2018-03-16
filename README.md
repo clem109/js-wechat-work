@@ -4,6 +4,12 @@ This package makes it a little easier to send notifications on WeChat work ‰ºÅ‰∏
 
 It's quick and dirty but it works.
 
+```bash
+npm install js-wechat-work
+
+yarn add js-wechat-work
+```
+
 ```javascript
 var WeChatWork = require('js-wechat-work')
 
